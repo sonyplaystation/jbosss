@@ -1,0 +1,9 @@
+[2015-04-24 04:56:18] [info]  [ 6100] Commons Daemon procrun (1.0.15.0 32-bit) started
+[2015-04-24 04:56:19] [info]  [ 6100] Service JBOSS_EAP6_SERVICE name JBoss EAP 6.1.0
+[2015-04-24 04:56:19] [info]  [ 6100] Service 'JBOSS_EAP6_SERVICE' installed
+[2015-04-24 04:56:19] [info]  [ 6100] Commons Daemon procrun finished
+[2015-04-24 04:56:20] [info]  [ 9320] Commons Daemon procrun (1.0.15.0 32-bit) started
+[2015-04-24 04:56:20] [info]  [ 9320] Updating service...
+[2015-04-24 04:56:20] [info]  [ 9320] Service 'JBOSS_EAP6_SERVICE' updated
+[2015-04-24 04:56:20] [info]  [ 9320] Update service finished.
+[2015-04-24 04:56:20] [info]  [ 9320] Commons Daemon procrun finished
